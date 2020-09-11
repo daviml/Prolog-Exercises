@@ -9,4 +9,4 @@ zar −−> blar,car.
 blar −−> [um].
 car −−> [trem].
 wiggle −−> [tchu].
-wiggle −−> wiggle,wiggle.
+wiggle −−> wiggle,wiggle. 
